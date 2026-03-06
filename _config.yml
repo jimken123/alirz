@@ -22,23 +22,6 @@ hero:
   hero__image: "/images/743962.jpeg"
 
 #-------------------------------
-# Contact Settings
-contact:
-  email: dejavu87@gmail.com # Add your email for contact form
-  description: Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
-# NOTE
-# Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: aliirz # add your shortname for Disqus Comment. For example anvodstudio-demo
-
-#-------------------------------
-# Google Analytics
-google-analytics: G-X5MSM54ZQZ # Add your identifier. For example UA-99631805-1.
-
-#-------------------------------
 # Build Settings
 markdown: kramdown
 permalink: /:title
@@ -62,15 +45,6 @@ defaults:
 include:
   - _pages
 
-# Tags
-tag_page_dir: tag
-tag_page_layout: tag_page
-tag_permalink_style: /:title
-
 sass:
   sass_dir: _sass
   style: compressed
-
-twitter:
-  username: aliirz
-  card: summary
