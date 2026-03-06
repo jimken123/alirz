@@ -5,7 +5,7 @@ permalink: /about/
 image: "/images/AEBCBE16-3423-4622-BF5C-3EEF2FF3DAB1.JPG"
 ---
 
-I enjoy creating great user experiences and hassle free solutions. I work with some of the brightest minds in the industry and constantly try to achieve perfection in what we build. I refactor a lot and make lame puns. I am a civic hacker by day and tech architect by night.
+I enjoy by night.
 
 ---
 
